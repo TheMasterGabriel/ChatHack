@@ -1,0 +1,7 @@
+{
+    "name": "ChatHack",
+	"mcversion": "1.9.4",
+    "version": "1.3",
+    "author": "TheMasterGabriel",
+    "description": "ChatHack is a mod that exploits server chat plugins, specifically the Spigot plugin ChatGame"
+}

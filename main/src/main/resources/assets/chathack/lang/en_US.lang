@@ -1,0 +1,7 @@
+key.categories.chathack=ChatHack
+key.chathack.toggle=Toggle ChatHack
+key.chathack.reset=Reset ChatHack
+
+message.chathack.toggle.true=ChatHack is now enabled
+message.chathack.toggle.false=ChatHack is now disabled
+message.chathack.reset=ChatHack has been reset
